@@ -1,0 +1,10 @@
+MANIFEST
+Makefile.PL
+README
+compare_altsplices_single.pl
+EGlite.pm
+est2geno_to_gtf.pl
+est_genome_ambig
+FAlite.pm
+trace_recalling.pl
+reverse_complement.pl
